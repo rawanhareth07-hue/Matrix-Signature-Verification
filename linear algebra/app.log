@@ -1,0 +1,17 @@
+2026-07-03 17:48:35,760 - AI Signature Verification & Anti-Forgery System - INFO - Database tables initialized successfully.
+2026-07-03 17:48:35,761 - AI Signature Verification & Anti-Forgery System - INFO - Database connection established at :memory:
+2026-07-03 17:48:35,761 - AI Signature Verification & Anti-Forgery System - INFO - Database tables initialized successfully.
+2026-07-03 17:48:35,763 - AI Signature Verification & Anti-Forgery System - INFO - Added signature id=1 for user 'test_user'.
+2026-07-03 17:48:35,763 - AI Signature Verification & Anti-Forgery System - INFO - Retrieved 1 signatures.
+2026-07-03 17:48:35,765 - AI Signature Verification & Anti-Forgery System - INFO - ImageProcessor initialized with target_size=(128, 128)
+2026-07-03 17:48:35,780 - AI Signature Verification & Anti-Forgery System - INFO - Signature processing pipeline completed successfully.
+2026-07-03 17:48:35,791 - AI Signature Verification & Anti-Forgery System - INFO - Recorded verification id=1: sig=1 score=0.3885 decision=Forged
+2026-07-03 17:48:35,807 - AI Signature Verification & Anti-Forgery System - INFO - Computed statistics: {'total_signatures': 1, 'total_verifications': 1, 'genuine_count': 0, 'forged_count': 1, 'avg_similarity': 0.3885, 'avg_processing_time': 0.05, 'accuracy': 0.0}
+2026-07-03 17:48:35,807 - AI Signature Verification & Anti-Forgery System - INFO - Retrieved 1 verification records.
+2026-07-03 17:48:35,814 - AI Signature Verification & Anti-Forgery System - INFO - PDF report successfully written to test_report.pdf
+2026-07-03 17:48:35,814 - AI Signature Verification & Anti-Forgery System - INFO - Computed statistics: {'total_signatures': 1, 'total_verifications': 1, 'genuine_count': 0, 'forged_count': 1, 'avg_similarity': 0.3885, 'avg_processing_time': 0.05, 'accuracy': 0.0}
+2026-07-03 17:48:35,815 - AI Signature Verification & Anti-Forgery System - INFO - Retrieved 1 verification records.
+2026-07-03 17:48:35,815 - AI Signature Verification & Anti-Forgery System - INFO - Retrieved 1 signatures.
+2026-07-03 17:48:35,845 - AI Signature Verification & Anti-Forgery System - INFO - Excel report successfully written to test_report.xlsx
+2026-07-03 17:48:35,849 - AI Signature Verification & Anti-Forgery System - INFO - Retrieved 1 verification records.
+2026-07-03 17:48:35,849 - AI Signature Verification & Anti-Forgery System - INFO - CSV report successfully written to test_report.csv
